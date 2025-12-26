@@ -1,6 +1,6 @@
-# R to Python Code Converter
+# R dplyr to Python Pandas Code Converter
 
-An AI-powered tool that automatically converts R code to optimized Python, with performance benchmarking to demonstrate speedups.
+An AI-powered tool that automatically converts R (dplyr) code to optimized Python (pandas), with performance benchmarking to demonstrate speedups.
 
 ## Project Overview
 
